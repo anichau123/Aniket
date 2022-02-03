@@ -1,0 +1,12 @@
+package com.sample;
+
+public class Test {
+	
+	public void test() {
+		
+		
+		System.out.println("Aniket");
+		
+	}
+
+}
